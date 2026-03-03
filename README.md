@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis & Revenue Forecasting
+# Sales Performance Analysis & Revenue Forecasting
 
 **End-to-End Data Analytics Project | Python | SQL | Machine Learning | Power BI**
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Executive Summary
+##  Executive Summary
 
 A comprehensive data analytics project analyzing **50,000+ sales transactions** across 4 years to uncover business insights, optimize strategies, and forecast future revenue. This project demonstrates professional-level skills in data analysis, SQL, machine learning, and business intelligence.
 
@@ -29,7 +29,7 @@ A comprehensive data analytics project analyzing **50,000+ sales transactions** 
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 ### Interactive Sales Dashboard
 *Upload your Power BI dashboard screenshot here after creation*
@@ -46,7 +46,7 @@ A comprehensive data analytics project analyzing **50,000+ sales transactions** 
 
 ---
 
-## 🎯 Key Business Insights
+##  Key Business Insights
 
 ### 1. Revenue Performance
 - **Total Revenue:** $10.0M over 4-year period
@@ -81,7 +81,7 @@ A comprehensive data analytics project analyzing **50,000+ sales transactions** 
 
 ---
 
-## 🤖 Machine Learning Results
+## Machine Learning Results
 
 ### Revenue Forecasting Models
 
@@ -107,7 +107,7 @@ A comprehensive data analytics project analyzing **50,000+ sales transactions** 
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 <table>
   <tr>
@@ -155,7 +155,7 @@ sales-forecasting-analysis/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -203,7 +203,7 @@ sqlite3 superstore.db < sql/sales_queries.sql
 
 ---
 
-## 📊 SQL Analysis Highlights
+##  SQL Analysis Highlights
 
 ### 12 Business Intelligence Queries
 
@@ -256,7 +256,7 @@ sqlite3 superstore.db < sql/sales_queries.sql
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 ### Immediate Actions (0-30 Days)
 
@@ -301,7 +301,7 @@ sqlite3 superstore.db < sql/sales_queries.sql
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 **Source:** Superstore Sales Dataset (Synthetic/Kaggle-style)  
 **Size:** 50,100 transactions  
@@ -311,7 +311,7 @@ sqlite3 superstore.db < sql/sales_queries.sql
 
 ---
 
-## 📸 Dashboard Upload Instructions
+## Dashboard Upload Instructions
 
 ### After creating your Power BI dashboard:
 
@@ -330,7 +330,7 @@ git push
 
 ---
 
-## 👤 Author
+## Author
 
 **Data Analyst | Business Intelligence Developer**
 
@@ -353,10 +353,10 @@ Project: [sales-forecasting-analysis](https://github.com/git4k/sales-forecasting
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License.
 
 ---
 
-**⭐ If you found this analysis helpful, please star this repository!**
+** If you found this analysis helpful, please star this repository!**
