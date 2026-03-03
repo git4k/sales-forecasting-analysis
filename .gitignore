@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+*.csv
+*.xlsx
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Power BI
+*.pbix
+
+# Database
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
