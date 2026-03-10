@@ -32,7 +32,6 @@ A comprehensive data analytics project analyzing **50,000+ sales transactions** 
 ##  Power BI Dashboard
 
 ### Interactive Sales Dashboard
-*Upload your Power BI dashboard screenshot here after creation*
 
 ![Dashboard Preview](dashboard/dashboard_screenshot.png)
 
